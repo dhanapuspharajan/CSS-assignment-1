@@ -1,0 +1,48 @@
+h1 {
+  color: red;
+}
+
+h3 {
+  color: red;
+}
+
+.first-list ol li {
+  color: maroon;
+  margin-top: 10px;
+}
+
+.first-list ol {
+  margin-top: 30px;
+}
+
+.second-list ul li {
+  color: maroon;
+  letter-spacing: 3px;
+}
+
+#css-is-not {
+  text-decoration: line-through;
+}
+#css-save-lot {
+  background-color: yellow;
+}
+#however {
+  background-color: yellow;
+}
+
+#p1,
+#p2,
+#p3 {
+  color: maroon;
+  padding-top: 10px;
+}
+
+a {
+  color: red;
+  background-color: yellow;
+  text-decoration: none;
+}
+#li-4 {
+  text-decoration: underline;
+  font-style: italic;
+}
